@@ -24,8 +24,6 @@
 
 ## 2023
 
----
-
 ### Mar. 2023
 
 * [DeepMAD: Mathematical Architecture Design for Deep Convolutional Neural Network](https://arxiv.org/abs/2303.02165)
@@ -52,8 +50,6 @@
 * [Is TinyML Sustainable? Assessing the Environmental Impacts of Machine Learning on Microcontrollers](https://arxiv.org/abs/2301.11899)
 
 ## 2022
-
----
 
 ### Dec. 2022
 * [Energy consumption of on-device machine learning models for IoT intrusion detection](https://www.sciencedirect.com/science/article/pii/S2542660522001512)
@@ -262,8 +258,6 @@
 
 ## 2021
 
----
-
 * [Micronets: Neural network architectures for deploying tinyml applications on commodity microcontrollers](https://proceedings.mlsys.org/papers/2021/108)
 
 ### Dec. 2021
@@ -377,8 +371,6 @@
 
 ## 2020
 
----
-
 ### Dec. 2020
 * [Online On-device MCU Transfer Learning](https://vikramramanathan.com/portfolio/portfolio-mcu-tf/)
 * [A VM/Containerized Approach for Scaling TinyML Applications](https://openreview.net/forum?id=m7Aqzt7Xf4S)
@@ -433,8 +425,6 @@ for MCU:s](https://lup.lub.lu.se/student-papers/search/publication/9026280)
 
 ## 2019
 
----
-
 ### Nov. 2019
 * [On-Device Machine Learning: An Algorithms and Learning Theory Perspective](https://arxiv.org/abs/1911.00623)
 * [Emotion Filtering at the Edge](https://dl.acm.org/doi/10.1145/3362743.3362960)
@@ -447,8 +437,6 @@ for MCU:s](https://lup.lub.lu.se/student-papers/search/publication/9026280)
 * [Class-dependent Compression of Deep Neural Networks](https://arxiv.org/abs/1909.10364)
 
 ## 2003
-
----
 
 * [TinyML: Meta-data for Wireless Networks](https://people.eecs.berkeley.edu/~culler/cs294-f03/finalpapers/tinyml.pdf)
 

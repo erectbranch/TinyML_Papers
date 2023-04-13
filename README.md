@@ -66,6 +66,7 @@
 * [Book: Machine Learning on Commodity Tiny Devices](https://www.taylorfrancis.com/books/edit/10.1201/9781003340225/machine-learning-commodity-tiny-devices-song-guo-qihua-zhou)
 
 ### Nov. 2022
+* [Entropy-Driven Mixed-Precision Quantization for Deep Network Design](https://openreview.net/forum?id=E28hy5isRzC)
 * [An embedded solution for fault detection and diagnosis of photovoltaic modules using thermographic images and deep convolutional neural networks](https://www.sciencedirect.com/science/article/abs/pii/S0952197622004493)
 * [AutoTinyML for microcontrollers: Dealing with black-box deployability](https://www.sciencedirect.com/science/article/abs/pii/S0957417422011289)
 * [A review of TinyML](https://arxiv.org/abs/2211.04448)
@@ -228,7 +229,7 @@
 * [tinyMAN: Lightweight Energy Manager using Reinforcement Learning for Energy Harvesting Wearable IoT Devices](https://arxiv.org/abs/2202.09297)
 * [How to Manage Tiny Machine Learning at Scale: An Industrial Perspective](https://arxiv.org/abs/2202.09113)
 * [A VM/Containerized Approach for Scaling TinyML Applications](https://arxiv.org/abs/2202.05057)
-* [TinyM$^2$Net: A Flexible System Algorithm Co-designed Multimodal Learning Framework for Tiny Devices](https://arxiv.org/abs/2202.04303)
+* [TinyM $^2$ Net: A Flexible System Algorithm Co-designed Multimodal Learning Framework for Tiny Devices](https://arxiv.org/abs/2202.04303)
 * [A Fast Network Exploration Strategy to Profile Low Energy Consumption for Keyword Spotting](https://arxiv.org/abs/2202.02361) 
 * [BSC: Block-based Stochastic Computing to Enable Accurate and Efficient TinyML](https://ieeexplore.ieee.org/document/9712585)
 * [Heterogeneous Memory Architecture Accommodating Processing-in-Memory on SoC for AIoT Applications](https://ieeexplore.ieee.org/document/9712544)

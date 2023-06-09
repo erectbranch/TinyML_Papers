@@ -27,6 +27,7 @@
 ### Mar. 2023
 
 * [DeepMAD: Mathematical Architecture Design for Deep Convolutional Neural Network](https://arxiv.org/abs/2303.02165)
+* [TinyissimoYOLO: A Quantized, Low-Memory Footprint, TinyML Object Detection Network for Low Power Microcontrollers](https://arxiv.org/abs/2306.00001)
 
 ### Feb. 2023
 
